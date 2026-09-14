@@ -1,0 +1,19 @@
+# Data (not tracked -- see README)
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Downloaded/generated at runtime by the notebook
+*.zip
+baci_raw/
+country_node_features_2017_2024.csv
+baci_crm_edges_2017_2024.csv

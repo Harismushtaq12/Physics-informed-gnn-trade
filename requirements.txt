@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+torch
+torch_geometric
+matplotlib
+seaborn
+plotly
+kaleido
+networkx
+pycountry
+jupyter
